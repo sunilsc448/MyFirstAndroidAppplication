@@ -13,6 +13,7 @@ public class FragmentLogin extends Fragment
 {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+        //Comments added for the purpose of rebasing
         return inflater.inflate(R.layout.login_fragment,container,false);
     }
 }
