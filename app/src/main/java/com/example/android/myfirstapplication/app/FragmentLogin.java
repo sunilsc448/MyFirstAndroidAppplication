@@ -8,6 +8,7 @@ import android.view.ViewGroup;
 
 /**
  * Created by Sunil Kumar on 28-12-2015.// Edited by Bheemesh Jan27
+ Sunil Commit 1 Rebase
  */
 public class FragmentLogin extends Fragment
 {
