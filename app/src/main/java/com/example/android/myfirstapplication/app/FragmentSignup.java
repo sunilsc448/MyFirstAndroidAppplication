@@ -9,12 +9,14 @@ import android.view.ViewGroup;
 
 /**
  * Created by Sunil Kumar on 28-12-2015. Changes done for rebase Bheemesh 
+ Sunil Commit 1 Rebase
+ 
+ Sunil Commit 2 Rebase
  */
 public class FragmentSignup extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-//For testing sunil rebase
         return inflater.inflate(R.layout.signup_fragment,container,false);
     }
 }

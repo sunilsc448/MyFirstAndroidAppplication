@@ -12,7 +12,7 @@ import com.example.android.myfirstapplication.app.models.FragmentType;
 
 
 /**
- * Created by Sunil Kumar on 24-12-2015.
+ * Created by Sunil Kumar on 24-12-2015.// Changes for rebase commit 2nd
  */
 public class LandingActivity extends Activity {
     @Override
