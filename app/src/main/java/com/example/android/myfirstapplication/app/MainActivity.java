@@ -39,6 +39,10 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    private void addingSimpleMethodForCommit(){
+
+    }
+
     private ArrayList getDataInList() {
         String[] arr_title = new String[]{"one one one one one one one one",
                 "two two two two two two two two two two ",
