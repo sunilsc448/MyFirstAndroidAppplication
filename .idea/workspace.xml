@@ -26,8 +26,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/myfirstapplication/app/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="41" column="44" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="44" />
+            <state relative-caret-position="356">
+              <caret line="79" column="22" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -234,6 +234,9 @@
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f3935d76-b360-4354-81a0-3580621e9541" name="Default" comment="" />
@@ -246,6 +249,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" />
@@ -281,8 +285,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/myfirstapplication/app/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="41" column="44" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="44" />
+        <state relative-caret-position="356">
+          <caret line="79" column="22" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="22" />
         </state>
       </provider>
     </entry>
